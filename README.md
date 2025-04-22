@@ -7,8 +7,8 @@ This repository contains implementations of essential **machine learning algorit
 ### Windows
 
 ```commandline
-python -m venv .venv
-.venv\Scripts\activate
+python -m venv env
+env\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ```commandline
 python -m venv .venv
-source .venv/bin/activate on macOS/Linux
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
