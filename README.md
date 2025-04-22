@@ -20,6 +20,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+#### Freeze
+
+```commandline
+pip freeze > requirements.txt
+```
+
 ## 📌 Algorithms Included
 
 ### ✅ Regression
