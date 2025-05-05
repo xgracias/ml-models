@@ -10,4 +10,6 @@ optree==0.15.0
 packaging==25.0
 Pygments==2.19.1
 rich==14.0.0
+scipy==1.15.2
 typing_extensions==4.13.2
+xgboost==3.0.0
